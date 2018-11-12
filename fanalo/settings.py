@@ -25,7 +25,7 @@ SECRET_KEY = '4gi)fj^$$ka$=bbhk_j5qcj3=5gjnc-r8hjy5zbjr5+#m=nrll'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','fenomamy.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','sakay.pythonanywhere.com']
 
 
 # Application definition
